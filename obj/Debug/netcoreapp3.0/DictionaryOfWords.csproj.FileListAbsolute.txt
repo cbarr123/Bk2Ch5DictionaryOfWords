@@ -1,0 +1,11 @@
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.deps.json
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.runtimeconfig.json
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.runtimeconfig.dev.json
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.dll
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/bin/Debug/netcoreapp3.0/DictionaryOfWords.pdb
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.csprojAssemblyReference.cache
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.AssemblyInfoInputs.cache
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.AssemblyInfo.cs
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.dll
+/Users/cbarringer/workspace/csharp/exercises/DictionaryOfWords/obj/Debug/netcoreapp3.0/DictionaryOfWords.pdb
