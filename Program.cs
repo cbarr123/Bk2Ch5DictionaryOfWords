@@ -25,10 +25,30 @@ namespace DictionaryOfWords
 
             // Make a new list 
             Console.WriteLine(); 
-            
-            List<Dictionary<string, string>> dictionaryOfWords = new List<Dictionary<string, string>>();
-            Dictionary<string, string> excitedWord = new Dictionary<string, string>();
-            excitedWord.Add("word", "excited");
+
+            List<Dictionary<string, string>> dictionaryOfWords = new List<Dictionary<string, string>>() 
+            {
+                new Dictionary<string, string> (){
+                    {"word", "excited"},
+                    {"definition", "heightened state of energy"},
+                    {"Part of speech", "adjective"},
+                    {"example", "I am excited to learn C#"}
+                },
+                new Dictionary<string, string> () {
+                    {"word", "nervous"},
+                    {"wordsAndDefinitions", "heightened state of anxiety"},
+                    {"part of speech", "adjective"}, 
+                    {"example", "I am nervous about not being in school today"}
+                }
+            };
+
+            foreach (Dictionary<string,string> word in dictionaryOfWords)
+                {
+                    foreach (KeyValuePair<string, string> kvp in word)
+                        {
+                            Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+                        }
+                }
 
 
 
